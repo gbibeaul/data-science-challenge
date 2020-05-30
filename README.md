@@ -2,6 +2,8 @@
 
 This is a test datascience project I did mainly to give a shot a data science. The goals were to run statistical analysis on a soccer game data set and to build a prediction model of which team would win given on it's past history.
 
+open up [The Notebook](soccerNotebook.ipynb) to see results
+
 ### Statistical analysis:
 
 In pandas the following exploratoty analysis were ran:
