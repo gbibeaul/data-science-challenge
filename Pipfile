@@ -10,6 +10,9 @@ jupyter = "*"
 pandas = "*"
 matplotlib = "*"
 keras = "*"
+scipy = "*"
+sklearn = "*"
+seaborn = "*"
 
 [requires]
 python_version = "3.7"
